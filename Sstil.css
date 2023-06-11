@@ -1,0 +1,62 @@
+@charset "utf-8";
+/* CSS Document */
+
+p { color:black;
+	font-family: Cambria, "Hoefler Text", "Liberation Serif", Times, "Times New Roman", "serif";
+	font-size: 19px;
+	line-height: 18px;
+	width: 600px;
+	background-color: Lavender;
+	padding: 20px;
+	
+}
+h1{color: darkcyan;
+	font-family:PETRABLAZEVIC;
+font-size:45px
+	
+}
+.paragraf_2 {
+	color: darkcyan;
+	background-color: rgba(255, 255, 255, 0.5)
+	
+}
+.novi_blok {
+	background-color: rgba(255, 255, 255, 0.3);
+	padding:20px;
+	margin: 20px;
+	width: 50%;
+}
+h3 {
+	color: purple;
+	background-color: rgba(230, 230, 250, 0.9);
+}
+h2 {
+	font-family: "Lucida Grande", "Lucida Sans Unicode", "Lucida Sans", "DejaVu Sans", Verdana, "sans-serif";
+	color: purple;
+}
+
+
+span{color:rgb(259,0,255);}
+body{
+	background-image: url("Slike/p.jpg");
+	padding-left:300px;
+	padding-right: 350px;
+}
+a:link {
+	color: black;
+	background-color: LightPink;
+	padding: 5px;
+	line-height: 40px;
+	border: 2px solid #131111;
+	font-size: 20px;
+}
+a:hover{
+		background-color: hotpink;
+}
+
+b, header {
+	padding-left: 450;
+}
+li { display:inline;
+border: 3px	
+}
